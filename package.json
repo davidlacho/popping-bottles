@@ -1,0 +1,19 @@
+{
+  "name": "popping-bottles",
+  "version": "1.0.0",
+  "description": "a program so that you can figure out how many total bottles of pop can be redeemed given a customer investment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiveache/popping-bottles.git"
+  },
+  "author": "David Lacho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiveache/popping-bottles/issues"
+  },
+  "homepage": "https://github.com/fiveache/popping-bottles#readme"
+}
